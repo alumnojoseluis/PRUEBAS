@@ -26,10 +26,13 @@ body, html{
 
 #menu{}
 
+#alunizaje{}
+
 #luna {
 	height: 100%;
 	width: 100%;
 	text-align:center;
+	position:fixed;
 }
 
 .button {
